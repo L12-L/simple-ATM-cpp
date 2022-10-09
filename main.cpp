@@ -6,6 +6,7 @@ void showMenu() {
     cout << "1. c h e c k  b a l a n c e" << endl;
     cout << "2. d e p o s i t" << endl;
     cout << "3. w i t h d r a w" << endl;
+    cout << "4. E X I T !" << endl;
     cout << "*****************************" << endl;
 }
 
